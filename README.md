@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+You can find me here 👇
+
+🐦[Twitter](https://twitter.com/gianluigiconti)
+
+🐘<a rel="me" href="https://hachyderm.io/@gianluigiconti">Mastodon</a>
+
+💼[Linkedin](https://www.linkedin.com/in/contigianluigi/)
 <!--
 **glconti/glconti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
